@@ -1,0 +1,9 @@
+puplic class sum {
+
+    public static void name(string[] args)
+    int a =5;
+    int b =6;
+# Anmol comment
+    system.out.println(a+b);    
+    }
+}git
